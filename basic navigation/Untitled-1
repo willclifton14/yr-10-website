@@ -1,0 +1,49 @@
+<head>
+    <link rel='stylesheet' href="layout.css">
+    <title></title>
+</head>
+
+<body>
+
+    <header>
+        this is a header
+    </header>
+
+    <div class=main>
+
+        <div class=left>
+            this is some content on the left<br>
+            <img src="images/fortnite.jpg">
+            <img src="images/fortnite2.jpg">     
+            
+        </div>
+        <div class=right>
+            this is some content on the right
+            <img src="images/fortnite3.jpg">
+            <img src="images/fortnite4.jpg">
+        </div>
+
+
+        <div class=copyright>
+            this is where I place some more content
+        </div>
+        
+        <div class=copyright>
+            this is where I place some more content
+        </div>
+   <div class=left>
+            this is some content on the left<br>
+            <img src="images/fortnite.jpg">
+            <img src="images/fortnite2.jpg">     
+            
+        </div>
+        <div class=right>
+            this is some content on the right
+            <img src="images/fortnite3.jpg">
+            <img src="images/fortnite4.jpg">
+        </div>
+
+    </div>
+    
+
+</body>
